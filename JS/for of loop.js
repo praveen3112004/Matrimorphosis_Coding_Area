@@ -18,4 +18,6 @@ let orders = [
     type_of_Customer: "New",
   },
 ];
-for(ordersData of orders) console.log("Order No:",ordersData.orderno,"--------","Total Amount:", ordersData.total_amount)
+for(ordersData of orders) {
+  console.log("Order No:",ordersData.orderno,"--------","Total Amount:", ordersData.total_amount);
+}
