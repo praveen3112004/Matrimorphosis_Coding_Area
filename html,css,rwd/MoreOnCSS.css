@@ -1,0 +1,25 @@
+.listModel {
+  list-style: none;
+}
+.flexModel {
+  flex-direction: row;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  height: 200px;
+  flex-wrap: wrap;
+}
+.gridMain{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+.girdHeaderCell{
+  background-color: green;
+  border: solid 2px black;
+}
+.gridDataCell{
+  background-color: deeppink;
+  border: solid 2px black;
+}

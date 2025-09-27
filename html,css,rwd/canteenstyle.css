@@ -1,0 +1,24 @@
+.borderbule {
+  border: solid blue 2px;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+li {
+  color: #ff8800;
+}
+#listitem {
+  font-size: x-small;
+  border: solid 2px black;
+  width: 100px;
+  height: 10px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  margin-left: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

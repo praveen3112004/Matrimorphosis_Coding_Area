@@ -1,0 +1,100 @@
+100 One Hundred
+099 Ninety Nine
+098 Ninety Eight
+097 Ninety Seven
+096 Ninety Six
+095 Ninety Five
+094 Ninety Four
+093 Ninety Three
+092 Ninety Two
+091 Ninety One
+090 Ninety
+089 Eighty Nine
+088 Eighty Eight
+087 Eighty Seven
+086 Eighty Six
+085 Eighty Five
+084 Eighty Four
+083 Eighty Three
+082 Eighty Two
+081 Eighty One
+080 Eighty
+079 Seventy Nine
+078 Seventy Eight
+077 Seventy Seven
+076 Seventy Six
+075 Seventy Five
+074 Seventy Four
+073 Seventy Three
+072 Seventy Two
+071 Seventy One
+070 Seventy
+069 Sixty Nine
+068 Sixty Eight
+067 Sixty Seven
+066 Sixty Six
+065 Sixty Five
+064 Sixty Four
+063 Sixty Three
+062 Sixty Two
+061 Sixty One
+060 Sixty
+059 Fifty Nine
+058 Fifty Eight
+057 Fifty Seven
+056 Fifty Six
+055 Fifty Five
+054 Fifty Four
+053 Fifty Three
+052 Fifty Two
+051 Fifty One
+050 Fifty
+049 Forty Nine
+048 Forty Eight
+047 Forty Seven
+046 Forty Six
+045 Forty Five
+044 Forty Four
+043 Forty Three
+042 Forty Two
+041 Forty One
+040 Forty
+039 Thirty Nine
+038 Thirty Eight
+037 Thirty Seven
+036 Thirty Six
+035 Thirty Five
+034 Thirty Four
+033 Thirty Three
+032 Thirty Two
+031 Thirty One
+030 Thirty
+029 Twenty Nine
+028 Twenty Eight
+027 Twenty Seven
+026 Twenty Six
+025 Twenty Five
+024 Twenty Four
+023 Twenty Three
+022 Twenty Two
+021 Twenty One
+020 Twenty
+019 Nineteen
+018 Eighteen
+017 Seventeen
+016 Sixteen
+015 Fifteen
+014 Fourteen
+013 Thirteen
+012 Twelve
+011 Eleven
+010 Ten
+009 Nine
+008 Eight
+007 Seven
+006 Six
+005 Five
+004 Four
+003 Three
+002 Two
+001 One

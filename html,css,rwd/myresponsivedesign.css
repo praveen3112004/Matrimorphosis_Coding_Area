@@ -1,0 +1,32 @@
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+}
+.menu-item {
+  border: 2px solid gray;
+  border-radius: 8px;
+  padding: 6px;
+}
+@media (max-width: 600px) {
+  .menu-container {
+    flex-direction: column;
+    font-size: x-small;
+  }
+}
+@media print {
+  body {
+    background-color: rgb(85, 42, 145);
+    font-family: "Courier New", Courier, monospace;
+    color: chocolate;
+  }
+}
+@media all and (min-width: 700px) {
+  body {
+    font-size: 2rem;
+  }
+}
